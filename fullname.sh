@@ -3,7 +3,7 @@
 
 declare -A fullnames
 fullnames[ichiro]='Ichiro Suzuki'
-fullnames[tomohiro]='Tomohiro TAIRA'
+fullnames[tomohiro]='hogehoge'
 
 
 
